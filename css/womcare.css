@@ -45,3 +45,10 @@ background-color: red;
 #dep{
     color: black;
 }
+
+video{
+
+  width: 1200px;
+      height: 500px;
+      margin-left: 100px;
+  }
