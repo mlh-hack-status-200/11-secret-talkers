@@ -1,0 +1,11 @@
+			WOMCARE
+PROBLEM STATEMENT:
+Women face a lot of difficulties related to their healthcare and hygiene.
+SOLUTION:
+>We have made a website and an app to help women find solutions to their problems related to healthcare and hygiene.
+>We have divided age wise problems and their solutions.
+>Women can find solutions to their problems.
+>They can even contact a doctor from our portal if they are not able to find a satisfying solution.
+>Our service is completely free for all the women.
+>They can login into their account anytime they want to.
+>They can track their record and follow up.
