@@ -1,0 +1,44 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: black
+}
+
+#id1{
+margin-left: auto;
+margin-right: auto;
+background-color: red;
+}
+.cen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  #address{
+    font-size: 2em;
+    color:white;
+    background-color:#1E9F75; 
+    text-align: center;
+     font-family: 'Shadows Into Light', cursive;
+    
+}
