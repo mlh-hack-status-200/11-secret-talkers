@@ -37,8 +37,11 @@ background-color: red;
   #address{
     font-size: 2em;
     color:white;
-    background-color:#1E9F75; 
+    background-color:rgb(252, 216, 247); 
     text-align: center;
      font-family: 'Shadows Into Light', cursive;
     
+}
+#dep{
+    color: black;
 }
